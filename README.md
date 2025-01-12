@@ -1,2 +1,2 @@
 # newton_based_extremum_seeking
-Newton Based Extremum Seeking Algorithm for Online Optimization
+Newton Based Extremum Seeking Algorithm for Online Optimization. This repository includes code from paper [A robustified Newton based Extremum Seeking for Engine Optimization](https://www.researchgate.net/publication/305034128_A_robustified_Newton_based_Extremum_Seeking_for_Engine_Optimization) and the corresponding masterthesis [Echtzeitoptimierung mit Extremum Seeking ](https://epub.jku.at/obvulihs/content/titleinfo/909220)
